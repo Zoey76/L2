@@ -1,6 +1,4 @@
-language: c
-compiler:
-  - gcc
-  - clang
+language: cpp
+compiler: clang
 script:
   - cmake --build
