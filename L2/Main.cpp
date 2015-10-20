@@ -10,5 +10,5 @@
 // Author: Zoey76
 int _stdcall wWinMain(HINSTANCE hInst, HINSTANCE prevInst, LPWSTR szCmdLine, int nCmdShow)
 {
-	ShellExecute(0, L"open", L"cmd.exe", L"/C start l2.bin IP=127.0.0.1", 0, SW_HIDE);
+	ShellExecute(0, "open", "cmd.exe", "/C start l2.bin IP=127.0.0.1", 0, SW_HIDE);
 }
