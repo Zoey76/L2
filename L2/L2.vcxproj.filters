@@ -30,7 +30,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="..\..\..\..\Desktop\Ejecutar_como_admin\ExecutionLevelRequireAdministratorManifest.res">
+    <Resource Include="ExecutionLevelRequireAdministratorManifest.res">
       <Filter>Resources</Filter>
     </Resource>
   </ItemGroup>

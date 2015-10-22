@@ -88,7 +88,7 @@
     <Image Include="l2.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="..\..\..\..\Desktop\Ejecutar_como_admin\ExecutionLevelRequireAdministratorManifest.res" />
+    <Resource Include="ExecutionLevelRequireAdministratorManifest.res" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
