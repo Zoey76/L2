@@ -88,7 +88,7 @@
     <Image Include="l2.ico" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\.travis.yml" />
+    <Resource Include="ExecutionLevelRequireAdministratorManifest.res" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

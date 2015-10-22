@@ -26,12 +26,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
-      <Filter>Source Code</Filter>
+      <Filter>Souce Code</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\.travis.yml">
+    <Resource Include="ExecutionLevelRequireAdministratorManifest.res">
       <Filter>Resources</Filter>
-    </None>
+    </Resource>
   </ItemGroup>
 </Project>
