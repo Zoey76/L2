@@ -20,13 +20,13 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <Image Include="l2.ico">
       <Filter>Resources</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Code</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
